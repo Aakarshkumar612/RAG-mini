@@ -47,6 +47,9 @@ This eliminates hallucination by constraining the LLM's context window to retrie
 
 ## Live Demo
 
+🔗 **[https://rag-mini-7egiemjqnldvydb88crv2z.streamlit.app](https://rag-mini-7egiemjqnldvydb88crv2z.streamlit.app)**
+
+Or run locally:
 ```
 streamlit run app.py
 ```
